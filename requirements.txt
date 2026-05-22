@@ -1,1 +1,7 @@
 streamlit
+kaitaistruct
+apsw
+icecream
+pandas
+xpress9
+pbixray
